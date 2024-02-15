@@ -1,0 +1,10 @@
+Description: In this assignment you will have an opportunity to install a small network using virtualization tools.
+
+Goals: 
+Reimage lab machine to save an Ubuntu Desktop image on a saved disk
+Install VirtualBox virutalization software.
+Install Kali Linux from an *.ovf file.
+Install Metasploitable virtual machine.
+Install the Broken Web Apps virtual machine.
+Use Nmap to test the networking setup you've created in your virtual environment.
+Craft and execute a successful SQL injection attack.
